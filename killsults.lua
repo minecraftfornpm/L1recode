@@ -10,6 +10,6 @@ return {
 	"Stav is the 🐐, {plr}",
 	"W Breter98!, right {plr}?",
 	"Rhoma taught me how to play, {plr}",
-  "pls {plr} use l1recode",
-  "{plr} why report? LOL"
+    "pls {plr} use l1recode",
+    "{plr} why report? LOL"
 }
