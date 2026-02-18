@@ -4,7 +4,7 @@
 </h2>
 
 ## Contacts
-[TELEGRAM](https://bpm_cool)
+[TELEGRAM](https://t.me/bpm_cool)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
@@ -24,4 +24,4 @@ If its not the supposed utility at fault, please try some troubleshooting steps.
 2. Ensuring no external script is conflicting.
 
 ## Developers & Credits
-[KEPO](https://github.com/7GrandDadPGN) - Creator ui, all.
+[KEPO](https://github.com/minecraftfornpm) - Creator ui, all.
